@@ -2,11 +2,12 @@ body {
     font-family: Verdana;
     background-color: lightgrey;
     margin-top: 75px;
-    border:2px dashed red;
 }
 
 .center {
     text-align: center;
+    margin-left:200px;
+    
 }
 
 .text-big {
